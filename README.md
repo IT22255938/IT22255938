@@ -1,7 +1,9 @@
 
  
     
-  <h2 align="left">Hi 👋! My name is Dilki and I'm a Web Develaper, from Sri Lanka </h2>
+  <h2 align="left">Hi 👋! My name is Dilki </h2>
+  <br></br>
+   <h2>I'm a Web Develaper, from Sri Lanka </h2>
 
 ###
 
